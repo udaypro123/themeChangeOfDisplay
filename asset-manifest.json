@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/themeChangeOfDisplay/static/css/main.bb16090e.css",
+    "main.js": "/themeChangeOfDisplay/static/js/main.2f2db6f7.js",
+    "index.html": "/themeChangeOfDisplay/index.html",
+    "main.bb16090e.css.map": "/themeChangeOfDisplay/static/css/main.bb16090e.css.map",
+    "main.2f2db6f7.js.map": "/themeChangeOfDisplay/static/js/main.2f2db6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb16090e.css",
+    "static/js/main.2f2db6f7.js"
+  ]
+}
